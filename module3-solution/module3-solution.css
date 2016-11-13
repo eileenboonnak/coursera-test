@@ -1,0 +1,81 @@
+body {
+	font-size: 16px;
+	background-color: #c39797;
+	font-family: 'courier new';
+}
+
+/** Header **/
+#header-nav {
+	background-color: #cccccc;
+	border-radius: 0;
+	border: 0;
+	margin-bottom: 10px;
+}
+.navbar-brand h1 {
+	color: black;
+	font-size: 1.5em;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+.navbar-nav {
+	margin-top: 0;
+}
+.navbar-default .navbar-nav>li>a {
+	color: black;
+}
+#nav-list {
+	color: black;
+	background-color: grey;
+}
+#nav-list a {
+	text-align: center;
+}
+#nav-list a:hover {
+	background: #eeeeee;
+}
+.navbar-header button.navbar-toggle {
+	clear: both;
+	margin-top: -40px;
+}
+
+
+/** Main Content **/
+h2 {
+	color: black;
+	margin-top: 0;
+}
+
+.section {
+	border: 1px solid black;
+	background-color: #eeeeee;
+	color: #333333;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 20px;
+}
+p {
+	padding: 0px 10px 10px 10px;
+}
+
+h3 {
+	margin-top: 10px;
+}
+#back-to-top {
+	color: black;
+}
+#back-to-top a:hover a:focus {
+	text-decoration: none;
+}
+/* Footer /*
+
+/* Medium Size /*
+
+/* Small Size /*
+
+/* Extra Small /*
